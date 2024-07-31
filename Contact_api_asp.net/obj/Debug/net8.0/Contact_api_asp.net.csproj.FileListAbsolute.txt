@@ -75,3 +75,4 @@ C:\Users\renau\source\repos\Contact_api_asp.net\Contact_api_asp.net\bin\Debug\ne
 C:\Users\renau\source\repos\Contact_api_asp.net\Contact_api_asp.net\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
 C:\Users\renau\source\repos\Contact_api_asp.net\Contact_api_asp.net\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
 C:\Users\renau\source\repos\Contact_api_asp.net\Contact_api_asp.net\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\renau\source\repos\Contact_api_asp.net\Contact_api_asp.net\obj\Debug\net8.0\Contact_api_asp.net.sourcelink.json

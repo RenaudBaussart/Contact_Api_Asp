@@ -8,6 +8,6 @@ namespace Contact_api_asp.net
         public DataBaseContexteClasse(DbContextOptions<DataBaseContexteClasse> options) : base(options)
         {
         }
-        public DbSet<Contacte> Contacte { get; set; }
+        public DbSet<Contact> Contact { get; set; }
     }
 }
