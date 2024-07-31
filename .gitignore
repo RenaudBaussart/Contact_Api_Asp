@@ -1,2 +1,6 @@
 .vs
 Contact_api_asp.net/appsettings.json
+Contact_api_front/.vscode
+node_modules/.bin
+node_modules/.pnpm
+node_modules/.modules.yaml
